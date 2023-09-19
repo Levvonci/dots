@@ -12,4 +12,8 @@
 ![Nvim](https://github.com/Levvonci/dots/blob/master/.assets/Screenshot%202023-09-19%20at%2012.45.44.png)
 **Minimal config for neovim**
 
+# Desktop Wallpaper
+![DesktopW](https://github.com/Levvonci/dots/blob/master/.assets/city8k.jpg)
+**You can find my DesktopWallpaper in .asset/city8k.jpg**
+
 

@@ -28,3 +28,9 @@ source /Users/lvnc/.bash_profile
 
 
 alias config="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'

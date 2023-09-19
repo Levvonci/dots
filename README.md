@@ -10,6 +10,6 @@ Currently using a personal fetch from github.com/FelixKratz/SketchyBar
 
 # Nvim
 ![Nvim](https://github.com/Levvonci/dots/blob/master/.assets/Screenshot%202023-09-19%20at%2012.45.44.png)
-Personal minimal config for neovim
+Minimal config for neovim
 
 

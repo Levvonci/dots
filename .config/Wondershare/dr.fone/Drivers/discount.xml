@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<products>
+	  <product>
+		<Id>com.wondershare.drfonewin.iosunlock</Id>
+		<TrialCancelCount>10000</TrialCancelCount>
+		<DiscountUrl>https://drfone.wondershare.com/software-popup/ios-unlock-discount.html</DiscountUrl>
+	  </product>
+	   <product>
+		<Id>com.wondershare.drfonewin.iosclone</Id>
+		<TrialCancelCount>10000</TrialCancelCount>
+		<DiscountUrl>https://drfone.wondershare.com/software-popup/switch-discount.html</DiscountUrl>
+	  </product>
+	</products>
+</config>

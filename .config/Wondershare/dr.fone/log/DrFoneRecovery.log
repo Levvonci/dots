@@ -1,0 +1,417 @@
+09/21/2023 14:57:40 Program.Start Product=dr.fone, Version=12.9.8.1143
+09/21/2023 14:57:40 Operating System:  Unix 22.4.0.0
+09/21/2023 14:57:40 Friendly Version:  MaxOSX OS64Bits
+09/21/2023 14:57:40 Language:  English (United States)
+09/21/2023 14:57:40 ProcessorCount:  8
+09/21/2023 14:57:40 iTunesVersion: 0.0
+09/21/2023 14:57:40 /Users/.Android
+09/21/2023 14:57:40 start CreateClientSign
+09/21/2023 14:57:40 CreateClientSign retcode=0 value=B589D35E-1B1F-5429-BADF-D8CC0D24DF1B
+09/21/2023 14:57:40 RequestPriceTask begin.
+09/21/2023 14:57:40 RequestPriceTask begin.
+09/21/2023 14:57:41 RequestPriceTask begin.
+09/21/2023 14:57:41 RequestPriceTask begin.
+09/21/2023 14:57:41 current langid = 3361
+09/21/2023 14:57:41 <USB DEBUG> start requesting...
+09/21/2023 14:57:41 start CreateClientSign
+09/21/2023 14:57:41 CreateClientSign retcode=0 value=B589D35E-1B1F-5429-BADF-D8CC0D24DF1B
+09/21/2023 14:57:41 [WSID] start Init
+09/21/2023 14:57:41 RequestPriceTask begin.
+09/21/2023 14:57:43 [WSID] Init completed code=Suceess
+09/21/2023 14:57:43 Appkey=d62cbadebedf8433bcc9f8ae6d3e17ad, AppSecret=9249c44f8f3b5af3a95183b50631349d
+09/21/2023 14:57:43 start CreateClientSign
+09/21/2023 14:57:43 CreateClientSign retcode=0 value=B589D35E-1B1F-5429-BADF-D8CC0D24DF1B
+09/21/2023 14:57:43 ClentSign=B589D35E-1B1F-5429-BADF-D8CC0D24DF1B
+09/21/2023 14:57:43 Program.InitRegisterModule
+09/21/2023 14:57:43 <USB DEBUG> start parsing json...
+09/21/2023 14:57:43 <USB DEBUG> value compare: 1-1
+09/21/2023 14:57:44 <CloudUpdateHelper> get the result of update WA/WB Apk, start...
+09/21/2023 14:57:44 <CloudUpdateHelper> start get wa apk updateInfo.
+09/21/2023 14:57:44 <AAPT> 1 aapt apk version start. apkPath: /Users/lvnc/Library/Application Support/SubDrFoneApps/dr.fone-Recover.app/Contents/MonoBundle/WhatsApp_Specified.apk
+09/21/2023 14:57:44 <CloudUpdateHelper> Error output:W/asset   (65371): Asset path /Users/lvnc/Library/Application Support/SubDrFoneApps/dr.fone-Recover.app/Contents/MonoBundle/WhatsApp_Specified.apk is neither a directory nor file (type=1).
+09/21/2023 14:57:44 <CloudUpdateHelper> Error output:ERROR: dump failed because assets could not be loaded
+09/21/2023 14:57:44 <AAPT> 1 aapt apk version end. 
+09/21/2023 14:57:44 <AAPT> 2 aapt apk version start. apkPath: /Users/lvnc/.config/Wondershare/dr.fone/WhatsApp/WhatsApp_Specified.apk
+09/21/2023 14:57:44 <CloudUpdateHelper> Error output:W/asset   (65374): Asset path /Users/lvnc/.config/Wondershare/dr.fone/WhatsApp/WhatsApp_Specified.apk is neither a directory nor file (type=1).
+09/21/2023 14:57:44 <CloudUpdateHelper> Error output:ERROR: dump failed because assets could not be loaded
+09/21/2023 14:57:44 <AAPT> 2 aapt apk version end. 
+09/21/2023 14:57:44 waVersion: 0.0.0.0, inner_version: -
+09/21/2023 14:57:44 RegisterUSBDevicesNotify handle:140567830243568
+09/21/2023 14:57:44 MacUsbNotifier  StartMonitor start
+09/21/2023 14:57:44 MacUsbNotifier  StopMonitor
+09/21/2023 14:57:44 MacOS  StartMonitorWorker start
+09/21/2023 14:57:44 MacUsbNotifier  DoListen start
+09/21/2023 14:57:44 MacUsb DeviceConnectCallback 
+09/21/2023 14:57:44 ConnectionHub OnDeviceArrival:IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 14:57:44 AddUSBConnection deviceId: IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 14:57:44 ConnectionHub.FoundDevice
+09/21/2023 14:57:44 	Id=IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 14:57:44 	Manufacturer=Xiaomi
+09/21/2023 14:57:44 	Product=Mi 9 Lite
+09/21/2023 14:57:44 	FriendlyName=Mi 9 Lite
+09/21/2023 14:57:44 	SN=612952a5
+09/21/2023 14:57:44 	VID=10007
+09/21/2023 14:57:44 	PID=65344
+09/21/2023 14:57:44 	Class=0
+09/21/2023 14:57:44 	SubClass=0
+09/21/2023 14:57:44 	Protocol=0
+09/21/2023 14:57:44 AddUSBConnection VID:0x2717 PID:0xff40 Manufacturer:Xiaomi Product:Mi 9 Lite
+09/21/2023 14:57:44 MacOS  StartEnumeratorWorker start
+09/21/2023 14:57:44 MacOS  StartEnumeratorWorker while (!bExit) 
+09/21/2023 14:57:44 [WSID] start IsLogined
+09/21/2023 14:57:44 ConnectionScanTask start
+09/21/2023 14:57:44 [WSID] start QueryUserInfo
+09/21/2023 14:57:44 [WSID] QueryUserInfo completed msg=
+09/21/2023 14:57:44 [WSID] IsLogined completed  islogined = False
+09/21/2023 14:57:44 WinServiceControl.StartService ElevationService not install.
+09/21/2023 14:57:44 MacOS  StartEnumeratorWorker ScanMacUSB   
+09/21/2023 14:57:45 USBDeviceBaseInfo::GetDeviceInfo GetDeviceFromRemote VID:0x2717 PID:0xff40 Manufacturer:Xiaomi Product:Mi 9 Lite
+09/21/2023 14:57:45 	FriendlyName=
+09/21/2023 14:57:45 ConnectionHub.AddConnection(IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000, Android, 612952a5)
+09/21/2023 14:57:45 Connection Inserted Start bSameIOSDeviceOnly False
+09/21/2023 14:57:45 Connection Inserted create new device
+09/21/2023 14:57:45 Connection Inserted device is Android
+09/21/2023 14:57:45 [WSID] start IsLogined
+09/21/2023 14:57:45 [WSID] start QueryUserInfo
+09/21/2023 14:57:45 [WSID] QueryUserInfo completed msg=
+09/21/2023 14:57:45 [WSID] IsLogined completed  islogined = False
+09/21/2023 14:57:45 Connection Inserted AddService
+09/21/2023 14:57:45 Device manager add device SerialNumber: 612952a5, type=1
+09/21/2023 14:57:45 MacOS  StartEnumeratorWorker bFisrtScan end.
+09/21/2023 14:57:45 MacUsb DeviceDisconnectCallback 
+09/21/2023 14:57:45 ConnectionScanTask End
+09/21/2023 14:57:45 <CloudUpdateHelper> wa check update result: {"expired":true,"new_apk":{"id":43,"version":"2.23.14.80","inner_version":"26","type":0,"download_url":"http://download.wondershare.com/mobiletrans/apk/com.whatsapp_2.23.14.80_26.apk","expired":false,"md5":"d5cbd803da55c97a50e491e9eb4409b7","commit_time":"2023-08-07T07:43:23.000Z"}}
+09/21/2023 14:57:45 AddUSBConnection deviceId: IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 14:57:45 AddUSBConnection VID:0x2717 PID:0xff40 Manufacturer:Xiaomi Product:Mi 9 Lite
+09/21/2023 14:57:45 <CloudUpdateHelper> end get wa apk updateInfo.
+09/21/2023 14:57:45 <CloudUpdateHelper> wa apk need to update.
+09/21/2023 14:57:45 <ApkDownloader> wa Apk download start...
+09/21/2023 14:57:45 Main Device count: 1
+09/21/2023 14:57:54 Download Driver DB Ok, Version=4.0.1685085717
+09/21/2023 14:57:54 Replace DriverDb Ok
+09/21/2023 14:57:55 <ApkDownloader> wa download completed: Success
+09/21/2023 14:57:55 <ApkDownloader> wa Apk download ended.
+09/21/2023 14:58:00 ConnectionScanTask start
+09/21/2023 14:58:00 WinServiceControl.StartService ElevationService not install.
+09/21/2023 14:58:00 ConnectionScanTask End
+09/21/2023 14:58:00 AddUSBConnection deviceId: IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 14:58:00 AddUSBConnection VID:0x2717 PID:0xff40 Manufacturer:Xiaomi Product:Mi 9 Lite
+09/21/2023 14:58:00 Connection begin IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 14:58:00 [DC_UsbTask] try connect, Times: 1
+09/21/2023 14:58:00 * daemon started successfully
+09/21/2023 14:58:00 <DC-AndroidCOT> Initialize Result: True
+09/21/2023 14:58:00 Connection stepName Checking
+09/21/2023 14:58:00 Connecting Device count: 1
+09/21/2023 14:58:00 [DC_UsbTask] start wait system installing.
+09/21/2023 14:58:00 [DC_UsbTask] end wait system installing.
+09/21/2023 14:58:00 [DC_UsbTask] start wait FindExpectInterface
+09/21/2023 14:58:00 [DC_UsbTask] end wait FindExpectInterface.
+09/21/2023 14:58:00 [DC_UsbTask] start PrepareCheck.
+09/21/2023 14:58:00 [DC_UsbTask] end PrepareCheck.
+09/21/2023 14:58:00 [DC_UsbTask] usbconnecttask NeedDebuggingMode
+09/21/2023 14:58:00 [DC-BSCOT] BC-GetWaitReadyTask enter..
+09/21/2023 14:58:00 [DC-BSCOT] BC-WaitReadyWorker enter..
+09/21/2023 14:58:00 Connection stepName WaitReady
+09/21/2023 14:58:00 Connection stepName NeedDebuggingMode
+09/21/2023 14:58:00 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:00 GetDeviceState device result is: 
+09/21/2023 14:58:01 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:01 GetDeviceState device result is: 
+09/21/2023 14:58:01 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:01 GetDeviceState device result is: 
+09/21/2023 14:58:01 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:01 GetDeviceState device result is: 
+09/21/2023 14:58:01 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:01 GetDeviceState device result is: 
+09/21/2023 14:58:01 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:01 GetDeviceState device result is: 
+09/21/2023 14:58:02 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:02 GetDeviceState device result is: 
+09/21/2023 14:58:02 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:02 GetDeviceState device result is: 
+09/21/2023 14:58:02 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:02 GetDeviceState device result is: 
+09/21/2023 14:58:02 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:02 GetDeviceState device result is: 
+09/21/2023 14:58:02 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:02 GetDeviceState device result is: 
+09/21/2023 14:58:03 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:03 GetDeviceState device result is: 
+09/21/2023 14:58:03 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:03 GetDeviceState device result is: 
+09/21/2023 14:58:03 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:03 GetDeviceState device result is: 
+09/21/2023 14:58:03 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:03 GetDeviceState device result is: 
+09/21/2023 14:58:03 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:03 GetDeviceState device result is: 
+09/21/2023 14:58:04 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:04 GetDeviceState device result is: 
+09/21/2023 14:58:04 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:04 GetDeviceState device result is: 
+09/21/2023 14:58:04 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:04 GetDeviceState device result is: 
+09/21/2023 14:58:04 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:04 GetDeviceState device result is: 
+09/21/2023 14:58:04 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:04 GetDeviceState device result is: 
+09/21/2023 14:58:05 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:05 GetDeviceState device result is: 
+09/21/2023 14:58:05 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:05 GetDeviceState device result is: 
+09/21/2023 14:58:05 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:05 GetDeviceState device result is: 
+09/21/2023 14:58:05 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:05 GetDeviceState device result is: 
+09/21/2023 14:58:06 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:06 GetDeviceState device result is: 
+09/21/2023 14:58:06 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:06 GetDeviceState device result is: 
+09/21/2023 14:58:06 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:06 GetDeviceState device result is: 
+09/21/2023 14:58:06 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:06 GetDeviceState device result is: 
+09/21/2023 14:58:06 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:06 GetDeviceState device result is: 
+09/21/2023 14:58:07 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:07 GetDeviceState device result is: 
+09/21/2023 14:58:07 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:07 GetDeviceState device result is: 
+09/21/2023 14:58:07 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:07 GetDeviceState device result is: 
+09/21/2023 14:58:07 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:07 GetDeviceState device result is: 
+09/21/2023 14:58:07 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:07 GetDeviceState device result is: 
+09/21/2023 14:58:08 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:08 GetDeviceState device result is: 
+09/21/2023 14:58:08 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:08 GetDeviceState device result is: 
+09/21/2023 14:58:08 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:08 GetDeviceState device result is: 
+09/21/2023 14:58:08 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:08 GetDeviceState device result is: 
+09/21/2023 14:58:08 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:08 GetDeviceState device result is: 
+09/21/2023 14:58:09 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:09 GetDeviceState device result is: 
+09/21/2023 14:58:09 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:09 GetDeviceState device result is: 
+09/21/2023 14:58:09 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:09 GetDeviceState device result is: 
+09/21/2023 14:58:09 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:09 GetDeviceState device result is: 
+09/21/2023 14:58:09 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:09 GetDeviceState device result is: 
+09/21/2023 14:58:10 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:10 GetDeviceState device result is: 
+09/21/2023 14:58:10 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:10 GetDeviceState device result is: 
+09/21/2023 14:58:10 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:10 GetDeviceState device result is: 
+09/21/2023 14:58:10 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:10 GetDeviceState device result is: 
+09/21/2023 14:58:11 start GetDeviceState device sn is: 612952a5
+09/21/2023 14:58:11 GetDeviceState device result is: 
+09/21/2023 15:02:42 MacUsbNotifier  StopMonitor
+09/21/2023 15:02:43 Device manager remove device SerialNumber: 612952a5 612952a5,Address 127.0.0.1,type=1
+09/21/2023 15:02:43 Connection IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000 disposed.
+09/21/2023 15:02:43 Connection end IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000 Offline
+09/21/2023 15:02:43 MacOS  StartEnumeratorWorker while (!bExit) end ---- 
+09/21/2023 15:02:44 Transfer clear cache dir /Users/lvnc/.config/Wondershare/dr.fone/DrFoneRecovery
+09/21/2023 15:02:44 ok
+09/21/2023 15:05:24 Program.Start Product=dr.fone, Version=12.9.8.1143
+09/21/2023 15:05:24 Operating System:  Unix 22.4.0.0
+09/21/2023 15:05:24 Friendly Version:  MaxOSX OS64Bits
+09/21/2023 15:05:24 Language:  English (United States)
+09/21/2023 15:05:24 ProcessorCount:  8
+09/21/2023 15:05:24 iTunesVersion: 0.0
+09/21/2023 15:05:24 start CreateClientSign
+09/21/2023 15:05:24 CreateClientSign retcode=0 value=B589D35E-1B1F-5429-BADF-D8CC0D24DF1B
+09/21/2023 15:05:24 current langid = 3361
+09/21/2023 15:05:24 RequestPriceTask begin.
+09/21/2023 15:05:24 RequestPriceTask begin.
+09/21/2023 15:05:24 RequestPriceTask begin.
+09/21/2023 15:05:24 RequestPriceTask begin.
+09/21/2023 15:05:24 RequestPriceTask begin.
+09/21/2023 15:05:24 <USB DEBUG> start requesting...
+09/21/2023 15:05:24 start CreateClientSign
+09/21/2023 15:05:24 CreateClientSign retcode=0 value=B589D35E-1B1F-5429-BADF-D8CC0D24DF1B
+09/21/2023 15:05:25 [WSID] start Init
+09/21/2023 15:05:25 [WSID] Init completed code=Suceess
+09/21/2023 15:05:25 Appkey=d62cbadebedf8433bcc9f8ae6d3e17ad, AppSecret=9249c44f8f3b5af3a95183b50631349d
+09/21/2023 15:05:25 start CreateClientSign
+09/21/2023 15:05:25 CreateClientSign retcode=0 value=B589D35E-1B1F-5429-BADF-D8CC0D24DF1B
+09/21/2023 15:05:25 ClentSign=B589D35E-1B1F-5429-BADF-D8CC0D24DF1B
+09/21/2023 15:05:25 Program.InitRegisterModule
+09/21/2023 15:05:26 <CloudUpdateHelper> get the result of update WA/WB Apk, start...
+09/21/2023 15:05:26 <CloudUpdateHelper> start get wa apk updateInfo.
+09/21/2023 15:05:26 <AAPT> 1 aapt apk version start. apkPath: /Users/lvnc/Library/Application Support/SubDrFoneApps/dr.fone-Recover.app/Contents/MonoBundle/WhatsApp_Specified.apk
+09/21/2023 15:05:26 <AAPT> 1 apk version: 2.23.14.80
+09/21/2023 15:05:26 <AAPT> 1 aapt apk version end. 
+09/21/2023 15:05:26 <AAPT> 2 aapt apk version start. apkPath: /Users/lvnc/.config/Wondershare/dr.fone/WhatsApp/WhatsApp_Specified.apk
+09/21/2023 15:05:26 <AAPT> 2 apk version: 2.23.14.80
+09/21/2023 15:05:26 <AAPT> 2 aapt apk version end. 
+09/21/2023 15:05:26 waVersion: 2.23.14.80, inner_version: 26
+09/21/2023 15:05:26 <USB DEBUG> start parsing json...
+09/21/2023 15:05:26 <USB DEBUG> value compare: 1-1
+09/21/2023 15:05:26 RegisterUSBDevicesNotify handle:140650305635456
+09/21/2023 15:05:26 MacUsbNotifier  StartMonitor start
+09/21/2023 15:05:26 MacUsbNotifier  StopMonitor
+09/21/2023 15:05:26 MacOS  StartMonitorWorker start
+09/21/2023 15:05:26 MacUsbNotifier  DoListen start
+09/21/2023 15:05:26 MacUsb DeviceConnectCallback 
+09/21/2023 15:05:26 ConnectionHub OnDeviceArrival:IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 15:05:26 AddUSBConnection deviceId: IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 15:05:26 ConnectionHub.FoundDevice
+09/21/2023 15:05:26 	Id=IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 15:05:26 	Manufacturer=Xiaomi
+09/21/2023 15:05:26 	Product=Mi 9 Lite
+09/21/2023 15:05:26 	FriendlyName=Mi 9 Lite
+09/21/2023 15:05:26 	SN=612952a5
+09/21/2023 15:05:26 	VID=10007
+09/21/2023 15:05:26 	PID=65344
+09/21/2023 15:05:26 	Class=0
+09/21/2023 15:05:26 	SubClass=0
+09/21/2023 15:05:26 	Protocol=0
+09/21/2023 15:05:26 AddUSBConnection VID:0x2717 PID:0xff40 Manufacturer:Xiaomi Product:Mi 9 Lite
+09/21/2023 15:05:26 MacOS  StartEnumeratorWorker start
+09/21/2023 15:05:26 MacOS  StartEnumeratorWorker while (!bExit) 
+09/21/2023 15:05:26 ConnectionScanTask start
+09/21/2023 15:05:26 [WSID] start IsLogined
+09/21/2023 15:05:26 [WSID] start QueryUserInfo
+09/21/2023 15:05:26 WinServiceControl.StartService ElevationService not install.
+09/21/2023 15:05:26 [WSID] QueryUserInfo completed msg=
+09/21/2023 15:05:26 [WSID] IsLogined completed  islogined = False
+09/21/2023 15:05:26 MacOS  StartEnumeratorWorker ScanMacUSB   
+09/21/2023 15:05:27 <CloudUpdateHelper> wa check update result: {"expired":false}
+09/21/2023 15:05:27 <CloudUpdateHelper> end get wa apk updateInfo.
+09/21/2023 15:05:27 USBDeviceBaseInfo::GetDeviceInfo GetDeviceFromRemote VID:0x2717 PID:0xff40 Manufacturer:Xiaomi Product:Mi 9 Lite
+09/21/2023 15:05:27 	FriendlyName=
+09/21/2023 15:05:27 ConnectionHub.AddConnection(IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000, Android, 612952a5)
+09/21/2023 15:05:27 Connection Inserted Start bSameIOSDeviceOnly False
+09/21/2023 15:05:27 Connection Inserted create new device
+09/21/2023 15:05:27 Connection Inserted device is Android
+09/21/2023 15:05:27 Connection Inserted AddService
+09/21/2023 15:05:27 Device manager add device SerialNumber: 612952a5, type=1
+09/21/2023 15:05:27 MacOS  StartEnumeratorWorker bFisrtScan end.
+09/21/2023 15:05:27 MacUsb DeviceDisconnectCallback 
+09/21/2023 15:05:27 [WSID] start IsLogined
+09/21/2023 15:05:27 [WSID] start QueryUserInfo
+09/21/2023 15:05:27 [WSID] QueryUserInfo completed msg=
+09/21/2023 15:05:27 [WSID] IsLogined completed  islogined = False
+09/21/2023 15:05:27 ConnectionScanTask End
+09/21/2023 15:05:27 AddUSBConnection deviceId: IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 15:05:27 AddUSBConnection VID:0x2717 PID:0xff40 Manufacturer:Xiaomi Product:Mi 9 Lite
+09/21/2023 15:05:27 Main Device count: 1
+09/21/2023 15:05:31 ConnectionScanTask start
+09/21/2023 15:05:31 WinServiceControl.StartService ElevationService not install.
+09/21/2023 15:05:31 ConnectionScanTask End
+09/21/2023 15:05:31 AddUSBConnection deviceId: IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 15:05:31 AddUSBConnection VID:0x2717 PID:0xff40 Manufacturer:Xiaomi Product:Mi 9 Lite
+09/21/2023 15:05:31 Connection begin IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000
+09/21/2023 15:05:31 [DC_UsbTask] try connect, Times: 1
+09/21/2023 15:05:31 * daemon started successfully
+09/21/2023 15:05:31 <DC-AndroidCOT> Initialize Result: True
+09/21/2023 15:05:31 Connection stepName Checking
+09/21/2023 15:05:31 Connecting Device count: 1
+09/21/2023 15:05:31 [DC_UsbTask] start wait system installing.
+09/21/2023 15:05:31 [DC_UsbTask] end wait system installing.
+09/21/2023 15:05:31 [DC_UsbTask] start wait FindExpectInterface
+09/21/2023 15:05:31 [DC_UsbTask] end wait FindExpectInterface.
+09/21/2023 15:05:31 [DC_UsbTask] start PrepareCheck.
+09/21/2023 15:05:31 [DC_UsbTask] end PrepareCheck.
+09/21/2023 15:05:31 [DC_UsbTask] usbconnecttask NeedDebuggingMode
+09/21/2023 15:05:31 [DC-BSCOT] BC-GetWaitReadyTask enter..
+09/21/2023 15:05:31 [DC-BSCOT] BC-WaitReadyWorker enter..
+09/21/2023 15:05:31 Connection stepName WaitReady
+09/21/2023 15:05:31 Connection stepName NeedDebuggingMode
+09/21/2023 15:05:31 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:31 GetDeviceState device result is: 
+09/21/2023 15:05:31 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:31 GetDeviceState device result is: 
+09/21/2023 15:05:32 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:32 GetDeviceState device result is: 
+09/21/2023 15:05:32 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:32 GetDeviceState device result is: 
+09/21/2023 15:05:32 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:32 GetDeviceState device result is: 
+09/21/2023 15:05:32 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:32 GetDeviceState device result is: 
+09/21/2023 15:05:32 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:32 GetDeviceState device result is: 
+09/21/2023 15:05:33 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:33 GetDeviceState device result is: 
+09/21/2023 15:05:33 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:33 GetDeviceState device result is: 
+09/21/2023 15:05:33 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:33 GetDeviceState device result is: 
+09/21/2023 15:05:33 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:33 GetDeviceState device result is: 
+09/21/2023 15:05:34 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:34 GetDeviceState device result is: 
+09/21/2023 15:05:34 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:34 GetDeviceState device result is: 
+09/21/2023 15:05:34 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:34 GetDeviceState device result is: 
+09/21/2023 15:05:34 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:34 GetDeviceState device result is: 
+09/21/2023 15:05:34 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:34 GetDeviceState device result is: 
+09/21/2023 15:05:35 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:35 GetDeviceState device result is: 
+09/21/2023 15:05:35 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:35 GetDeviceState device result is: 
+09/21/2023 15:05:35 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:35 GetDeviceState device result is: 
+09/21/2023 15:05:35 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:35 GetDeviceState device result is: 
+09/21/2023 15:05:35 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:35 GetDeviceState device result is: 
+09/21/2023 15:05:36 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:36 GetDeviceState device result is: 
+09/21/2023 15:05:36 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:36 GetDeviceState device result is: 
+09/21/2023 15:05:36 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:36 GetDeviceState device result is: 
+09/21/2023 15:05:36 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:36 GetDeviceState device result is: 
+09/21/2023 15:05:36 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:36 GetDeviceState device result is: 
+09/21/2023 15:05:37 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:37 GetDeviceState device result is: 
+09/21/2023 15:05:37 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:37 GetDeviceState device result is: 
+09/21/2023 15:05:37 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:37 GetDeviceState device result is: 
+09/21/2023 15:05:37 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:37 GetDeviceState device result is: 
+09/21/2023 15:05:37 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:37 GetDeviceState device result is: 
+09/21/2023 15:05:38 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:38 GetDeviceState device result is: 
+09/21/2023 15:05:38 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:38 GetDeviceState device result is: 
+09/21/2023 15:05:38 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:38 GetDeviceState device result is: 
+09/21/2023 15:05:38 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:38 GetDeviceState device result is: 
+09/21/2023 15:05:39 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:39 GetDeviceState device result is: 
+09/21/2023 15:05:39 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:39 GetDeviceState device result is: 
+09/21/2023 15:05:39 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:39 GetDeviceState device result is: 
+09/21/2023 15:05:39 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:39 GetDeviceState device result is: 
+09/21/2023 15:05:39 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:39 GetDeviceState device result is: 
+09/21/2023 15:05:39 MacUsbNotifier  StopMonitor
+09/21/2023 15:05:39 Device manager remove device SerialNumber: 612952a5 612952a5,Address 127.0.0.1,type=1
+09/21/2023 15:05:39 start GetDeviceState device sn is: 612952a5
+09/21/2023 15:05:39 GetDeviceState device result is: 
+09/21/2023 15:05:39 Connection IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000 disposed.
+09/21/2023 15:05:39 Connection end IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd1@2280000/AppleT8103USBXHCI@01000000/usb-drd1-port-hs@01100000/Mi 9 Lite@01100000 Offline
+09/21/2023 15:05:40 MacOS  StartEnumeratorWorker while (!bExit) end ---- 
+09/21/2023 15:05:42 Transfer clear cache dir /Users/lvnc/.config/Wondershare/dr.fone/DrFoneRecovery
+09/21/2023 15:05:42 ok

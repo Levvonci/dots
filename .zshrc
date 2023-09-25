@@ -16,6 +16,7 @@ alias cleanup="brew cleanup --prune=all"
 alias ls -la="ls -laG"
 alias ls="ls -G"
 alias yabair="yabai --restart-service"
+alias lv="/Users/lvnc/.local/bin/lvim"
 
 #echo
 
@@ -31,6 +32,10 @@ source /Users/lvnc/.bash_profile
 
 
 alias config="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
 alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
 alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
 alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'

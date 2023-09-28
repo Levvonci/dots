@@ -25,12 +25,12 @@ yabai -m config external_bar               all:35:0     \
                 window_opacity_duration    0.0          \
                 active_window_opacity      1.0          \
                 normal_window_opacity      0.0          \
-                window_border_width        3            \
+                window_border_width        2            \
                 window_border_hidpi        off          \
                 window_border_radius       11           \
                 window_border_blur         off          \
                 window_animation_duration  0.3          \
-                active_window_border_color 0xfffcc203   \
+                active_window_border_color 0xffb1d99c   \
                 normal_window_border_color 0xff494d64   \
                 insert_feedback_color      0xff9dd274   \
                 split_ratio                0.50         \

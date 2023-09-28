@@ -1,4 +1,5 @@
 {
+  "desktop.login.Back": "پچھلا",
   "desktop.login.PreferencesLink": "سیٹنگز",
   "desktop-auth.login.signup-time-out": "سائن اپ کا وقت ختم ہو گیا، براہ کرم دوبارہ کوشش کریں",
   "desktop-auth.login.login-time-out": "لاگ ان کا وقت ختم ہو گیا، براہ کرم دوبارہ کوشش کریں",
@@ -11,7 +12,6 @@
   "desktop-auth.login.log-in-with-browser": "لاگ ان کریں",
   "desktop-auth.login.new-to-spotify": "‏‏Spotify پر نئے ہیں؟",
   "desktop-auth.login.sign-up-with-browser": "مفت سائن اپ کریں",
-  "desktop.login.Back": "پچھلا",
   "desktop.login.UnknownLoginErrorMessage": "سروس عارضی طور پر دستیاب نہیں ہے، براہ کرم دوبارہ کوشش کریں۔",
   "desktop.login.DefaultErrorMessage": "ہو سکتا ہے کہ کوئی فائر وال Spotify کو بلاک کر رہی ہو۔ براہ کرم Spotify کو اجازت دینے کیلئے اپنی فائر وال اپ ڈیٹ کریں۔ اضافی طور پر آپ فی الحال زیر استعمال <a href=\"#\" data-action=\"%0%\">پروکسی سیٹنگز</a> کو تبدیل کر کے دیکھ سکتے ہیں",
   "desktop.login.SessionTerminatedMessage": "آپ کا سیشن معطل ہوگیا ہے",

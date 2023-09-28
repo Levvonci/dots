@@ -1,4 +1,5 @@
 {
+  "desktop.login.Back": "Geri",
   "desktop.login.PreferencesLink": "Parametrlər",
   "desktop-auth.login.signup-time-out": "Qeydiyyat vaxtı bitdi, yenidən cəhd edin",
   "desktop-auth.login.login-time-out": "Giriş vaxtı bitdi, yenidən cəhd edin",
@@ -11,7 +12,6 @@
   "desktop-auth.login.log-in-with-browser": "Giriş et",
   "desktop-auth.login.new-to-spotify": "Spotify-da yenisiniz?",
   "desktop-auth.login.sign-up-with-browser": "Pulsuz qeydiyyatdan keç",
-  "desktop.login.Back": "Geri",
   "desktop.login.UnknownLoginErrorMessage": "Xidmət müvəqqəti olaraq əlçatan deyil, daha sonra yenidən cəhd edin.",
   "desktop.login.DefaultErrorMessage": "Qoruyucu divar Spotify-ı bloklamış ola bilər. Spotify-a icazə vermək üçün qoruyucu divarınızı yeniləyin. Bundan əlavə, hazırda istifadə olunan <a href=\"#\" data-action=\"%0%\">proksi parametrlərini</a> dəyişməyə cəhd edə bilərsiniz",
   "desktop.login.SessionTerminatedMessage": "Seansınız dayandırıldı",

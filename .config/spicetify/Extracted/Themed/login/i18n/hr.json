@@ -1,4 +1,5 @@
 {
+  "desktop.login.Back": "Natrag",
   "desktop.login.PreferencesLink": "Postavke",
   "desktop-auth.login.signup-time-out": "Vremensko ograničenje za registraciju je isteklo, pokušajte ponovno",
   "desktop-auth.login.login-time-out": "Vremensko ograničenje za prijavu je isteklo, pokušajte ponovno",
@@ -11,7 +12,6 @@
   "desktop-auth.login.log-in-with-browser": "Prijava",
   "desktop-auth.login.new-to-spotify": "Novi ste u Spotifyu?",
   "desktop-auth.login.sign-up-with-browser": "Besplatna registracija",
-  "desktop.login.Back": "Natrag",
   "desktop.login.UnknownLoginErrorMessage": "Usluga je privremeno nedostupna, kasnije pokušajte ponovno.",
   "desktop.login.DefaultErrorMessage": "Vatrozid možda blokira Spotify. Ažurirajte svoj vatrozid kako biste omogućili Spotify. Dodatno možete pokušati promijeniti <a href=\"#\" data-action=\"%0%\">postavke proxyja</a> koje trenutačno upotrebljavate",
   "desktop.login.SessionTerminatedMessage": "Vaša je sesija prekinuta",

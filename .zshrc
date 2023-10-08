@@ -19,7 +19,8 @@ alias yabair="yabai --restart-service"
 alias lv="/Users/lvnc/.local/bin/lvim"
 alias btop="bpytop"
 alias skhdr="skhd --restart-service"
-
+alias top="bpytop"
+alias daktilo="/Users/lvnc/.cargo/bin/daktilo"
 #echo
 
 echo "alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'" >> $HOME/.zshrc
@@ -32,6 +33,23 @@ export PATH=$PATH:/Users/lvnc/.spicetify
 
 
 alias config="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
 alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
 alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
 alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'

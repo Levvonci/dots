@@ -22,6 +22,7 @@ alias skhdr="skhd --restart-service"
 alias top="bpytop"
 alias daktilo="/Users/lvnc/.cargo/bin/daktilo"
 alias Lab="ssh Lab"
+alias Galactus="ssh lvnc@192.168.178.124"
 #echo
 
 echo "alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'" >> $HOME/.zshrc
@@ -34,6 +35,27 @@ export PATH=$PATH:/Users/lvnc/.spicetify
 
 
 alias config="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
+alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
 alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
 alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'
 alias dotfiles='/usr/bin/git --git-dir=/Users/lvnc/.dotfiles/ --work-tree=/Users/lvnc'

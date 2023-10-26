@@ -13,13 +13,13 @@ yabai -m signal --add event=window_destroyed action="sketchybar --trigger window
 
 $HOME/.config/yabai/create_spaces.sh
 
-yabai -m config external_bar all:35:0 \
+yabai -m config \
 	window_border on \
 	mouse_follows_focus on \
 	focus_follows_mouse on \
 	window_zoom_persist off \
 	window_placement second_child \
-	window_topmost off \
+	window_topmost on \
 	window_shadow float \
 	window_opacity off \
 	window_opacity_duration 0.0 \
@@ -38,14 +38,17 @@ yabai -m config external_bar all:35:0 \
 	mouse_modifier fn \
 	mouse_action1 move \
 	mouse_action2 resize \
-	mouse_drop_action swap \
-	\
-	top_padding 15 \
-	bottom_padding 8 \
-	left_padding 8 \
-	right_padding 8 \
-	window_gap 6
+	mouse_drop_action swap
 
+# Set all padding and gaps to 20pt (default: 0)
+yabai -m config top_padding 8
+yabai -m config bottom_padding 46
+yabai -m config left_padding 8
+yabai -m config right_padding 8
+yabai -m config window_gap 8
+
+# Override gaps for space 2 only
+yabai -m config --space 2 window_gap 0
 # Exclude problematic apps from being managed:
 yabai -m rule --add app="^(LuLu|Calculator|Software Update|Dictionary|VLC|System Preferences|System Settings|zoom.us|Photo Booth|Archive Utility|Python|LibreOffice|App Store|Steam|Alfred|Activity Monitor)$" manage=off
 yabai -m rule --add label="Finder" app="^Finder$" title="(Co(py|nnect)|Move|Info|Pref)" manage=off

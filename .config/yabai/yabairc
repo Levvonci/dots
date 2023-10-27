@@ -41,11 +41,11 @@ yabai -m config \
 	mouse_drop_action swap
 
 # Set all padding and gaps to 20pt (default: 0)
-yabai -m config top_padding 8
-yabai -m config bottom_padding 46
-yabai -m config left_padding 8
-yabai -m config right_padding 8
-yabai -m config window_gap 8
+yabai -m config top_padding 12
+yabai -m config bottom_padding 50
+yabai -m config left_padding 12
+yabai -m config right_padding 12
+yabai -m config window_gap 12
 
 # Override gaps for space 2 only
 yabai -m config --space 2 window_gap 0

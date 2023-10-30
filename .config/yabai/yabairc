@@ -40,6 +40,9 @@ yabai -m config \
 	mouse_action2 resize \
 	mouse_drop_action swap
 
+# Left Child
+yabai -m config window_placement second_child
+
 # Set all padding and gaps to 20pt (default: 0)
 yabai -m config top_padding 12
 yabai -m config bottom_padding 50
@@ -47,8 +50,6 @@ yabai -m config left_padding 12
 yabai -m config right_padding 12
 yabai -m config window_gap 12
 
-# Override gaps for space 2 only
-yabai -m config --space 2 window_gap 0
 # Exclude problematic apps from being managed:
 yabai -m rule --add app="^(LuLu|Calculator|Software Update|Dictionary|VLC|System Preferences|System Settings|zoom.us|Photo Booth|Archive Utility|Python|LibreOffice|App Store|Steam|Alfred|Activity Monitor)$" manage=off
 yabai -m rule --add label="Finder" app="^Finder$" title="(Co(py|nnect)|Move|Info|Pref)" manage=off

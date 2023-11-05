@@ -25,10 +25,6 @@ yabai -m config \
 	window_opacity_duration 0.0 \
 	active_window_opacity 1.0 \
 	normal_window_opacity 0.0 \
-	window_border_width 2 \
-	window_border_hidpi off \
-	window_border_radius 11 \
-	window_border_blur off \
 	window_animation_duration 0.3 \
 	active_window_border_color 0xffb1d99c \
 	normal_window_border_color 0xff494d64 \
@@ -61,3 +57,5 @@ yabai -m rule --add label="SNAP" app="SNAP" title="SNAP" manage=off
 yabai -m config layout bsp
 
 echo "yabai configuration loaded.."
+
+#borders active_color=0xffffffff inactive_color=0xff494d64 width=2.0 2>/dev/null 1>&2 &

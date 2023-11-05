@@ -11,7 +11,7 @@
 disabled = true
 
 [username]
-style_user = "blue bold"
+style_user = "red bold"
 style_root = "red bold"
 format = "[$user]($style) "
 disabled = false
@@ -19,7 +19,7 @@ show_always = true
 
 [hostname]
 ssh_only = false
-format = 'on [$hostname](bold purple) '
+format = 'on [$hostname](bold orange) '
 trim_at = "."
 disabled = false
 
@@ -29,13 +29,7 @@ disabled = false
 read_only = " 󰣇 "
 truncation_length = 10
 truncate_to_repo = true # truncates directory to root folder if in github repo
-style = "bold italic blue"
-
-[cmd_duration]
-min_time = 4
-show_milliseconds = false
-disabled = false
-style = "bold italic red"
+style = "italic green"
 
 [aws]
 symbol = "  "

@@ -58,4 +58,4 @@ yabai -m config layout bsp
 
 echo "yabai configuration loaded.."
 
-#borders active_color=0xffffffff inactive_color=0xff494d64 width=2.0 2>/dev/null 1>&2 &
+borders active_color=0xffffffff inactive_color=0xff494d64 width=2.0 2>/dev/null 1>&2 &

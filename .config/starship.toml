@@ -1,11 +1,3 @@
-
-#format = """
-#[╭─user───❯](bold blue) $username
-#[┣─system─❯](bold yellow) $hostname
-#[┣─project❯](bold red) $directory$rust$git_branch$git_status$package$golang$terraform$docker_context$python$docker_context$nodejs
-#[╰─cmd────❯](bold green)
-#"""
-
 # disable line break
 [line_break]
 disabled = true
@@ -13,13 +5,13 @@ disabled = true
 [username]
 style_user = "red bold"
 style_root = "red bold"
-format = "[$user]($style) "
+format = "[$user]($style)"
 disabled = false
 show_always = true
 
 [hostname]
 ssh_only = false
-format = 'on [$hostname](bold orange) '
+format = '@[$hostname](bold purple) '
 trim_at = "."
 disabled = false
 

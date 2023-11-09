@@ -40,11 +40,11 @@ yabai -m config \
 yabai -m config window_placement second_child
 
 # Set all padding and gaps to 20pt (default: 0)
-yabai -m config top_padding 12
+yabai -m config top_padding 15
 yabai -m config bottom_padding 50
-yabai -m config left_padding 12
-yabai -m config right_padding 12
-yabai -m config window_gap 12
+yabai -m config left_padding 15
+yabai -m config right_padding 15
+yabai -m config window_gap 15
 
 # Exclude problematic apps from being managed:
 yabai -m rule --add app="^(LuLu|Calculator|Software Update|Dictionary|VLC|System Preferences|System Settings|zoom.us|Photo Booth|Archive Utility|Python|LibreOffice|App Store|Steam|Alfred|Activity Monitor)$" manage=off
@@ -58,4 +58,4 @@ yabai -m config layout bsp
 
 echo "yabai configuration loaded.."
 
-borders active_color=0xffffffff inactive_color=0xff494d64 width=2.0 2>/dev/null 1>&2 &
+borders active_color=0xffffffff inactive_color=0xff494d64 width=6.0 2>/dev/null 1>&2 &

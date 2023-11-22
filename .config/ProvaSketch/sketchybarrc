@@ -1,0 +1,16 @@
+
+
+
+bar=(
+  height=38
+  border_width=0
+  shadow=on
+  position=bot 
+  sticky=on
+  padding_right=10
+  padding_left=10
+  y_offset=-1
+  margin=-1
+  topmost=window
+  corner_radius=0
+)

@@ -3,7 +3,7 @@
 FRONT_APP_SCRIPT='[ "$SENDER" = "front_app_switched" ] && sketchybar --set $NAME label="$INFO"'
 
 front_app=(
-	icon.drawing=off
+	icon.drawing=on
 	label.font="$FONT:Black:12.0"
 	associated_display=active
 	script="$FRONT_APP_SCRIPT"

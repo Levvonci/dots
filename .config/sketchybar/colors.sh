@@ -13,8 +13,8 @@ export GREY=0xff939ab7
 export TRANSPARENT=0x00000000
 
 # General bar colors
-export BAR_COLOR=0xff000000        #292c33                           #ff180242        #1e1e2e CatpuccinMocha
-export BAR_BORDER_COLOR=0xffDA906B #E84560
+export BAR_COLOR=0xff1E1E2E       #292c33                           #ff180242
+export BAR_BORDER_COLOR=0xffffffff #E84560
 export ICON_COLOR=$WHITE           # Color of all icons
 export LABEL_COLOR=$WHITE          # Color of all labels
 export BACKGROUND_1=0x603c3e4f

@@ -1,4 +1,5 @@
 require('plugins')
+require('dash')
 require('key')
 require('pair')
 require('lineb')

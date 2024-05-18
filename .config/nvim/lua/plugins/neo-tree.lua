@@ -8,14 +8,10 @@ return {
   },
   config = function()
     vim.keymap.set('n', '<leader>n', ':Neotree filesystem reveal left<CR>', {})
-      opts = {
-    event_handlers = {
-      event = "neo_tree_buffer_enter",
-      handler = function()
-        vim.opt_local.relativenumber = false
-      end,
-    },
-  }
+    require('nvim-tree.view').setup({
+        --View.win_opts.relativenumber = true
+
+    })  
   end,
 }
 

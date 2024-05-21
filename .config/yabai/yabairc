@@ -13,13 +13,16 @@ yabai -m signal --add event=window_destroyed action="sketchybar --trigger window
 
 $HOME/.config/yabai/create_spaces.sh
 
-yabai -m config external_bar all:40:0
+yabai -m config window_opacity on
+yabai -m config active_window_opacity 1.0
+yabai -m config normal_window_opacity 0.5
+yabai -m config external_bar all:45:0
 yabai -m config mouse_follow_focus on
 yabai -m config focus_follows_mouse on
 yabai -m config window_zoom_persist off
 yabai -m config window_placement second_child
 yabai -m config window_topmost on
-yabai -m config window_animation_duration 0.2
+yabai -m config window_animation_duration 0.7
 yabai -m config insert_feedback_color 0xff9dd274
 yabai -m config split_ratio 0.50
 yabai -m config auto_balance off
@@ -43,8 +46,8 @@ yabai -m rule --add label="Finder" app="^Finder$" title="(Co(py|nnect)|Move|Info
 yabai -m rule --add label="Safari" app="^Safari$" title="^(General|(Tab|Password|Website|Extension)s|AutoFill|Se(arch|curity)|Privacy|Advance)$" manage=off
 yabai -m rule --add label="About This Mac" app="System Information" title="About This Mac" manage=off
 yabai -m rule --add label="Select file to save to" app="^Inkscape$" title="Select file to save to" manage=off
-yabai -m rule --add label="SNAP" app="SNAP" title="SNAP" manage=off
 
 yabai -m config layout bsp
+yabai -m rule --apply
 
 echo "yabai configuration loaded.."
